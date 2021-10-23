@@ -28,7 +28,7 @@ This is basic boilerplate to start a js/ts app and build on top of it.
 ## TODO
 
 - [x] EditorConfig
-- [ ] Prettier
+- [x] Prettier
 - [x] Commitlint
 
 ## LICENSE
