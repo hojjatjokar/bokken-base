@@ -1,6 +1,7 @@
 # bokken-base
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 This is basic boilerplate to start a js/ts app and build on top of it.
 
@@ -30,6 +31,9 @@ This is basic boilerplate to start a js/ts app and build on top of it.
 - [x] EditorConfig
 - [x] Prettier
 - [x] Commitlint
+- [ ] Badges
+- [ ] License link
+- [ ] Add keyword and description
 
 ## LICENSE
 
